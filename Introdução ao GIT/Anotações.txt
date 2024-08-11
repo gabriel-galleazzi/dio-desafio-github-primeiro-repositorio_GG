@@ -6,3 +6,24 @@ Notes:
 
 O Git Bash é um terminal extendido para otimizar o uso do GIT. 
 
+
+# comandos para o git bash:
+
+- cd -> comando para entrar em uma pasta, por exemplo:
+
+        cd Desktop/DIO/GIT-GITHUB/dio-desafio-github-primeiro-repositorio_GG
+        // ele vai ir para a pasta com o nosso repositório git
+
+- clear -> comando para limpar a tela do git bash 
+  // igual ao comando clear do matlab
+
+- git status -> comando para verificar se teve alguma mudança dentro do repositório
+
+- git add . -> comando para adicionar todas as mudanças dentro do repositório online (nuvem)
+  // obs.: digite "git|espaço|add|espaço|ponto(.)"
+
+- git commit -m "MENSAGEM QUE VAI SER ESCRITA NO COMMIT" -> comando para fazer o commit
+  // o traço m (-m) é o lugar que vc coloca o nome do commit que vc ta fazendo, é bom sempre dar um nome que lembre o pq da mudança update. 
+
+- git push origin main -> comando para subir as mudanças
+  // esse é o comando para subir no site do GITHUB todas as mudanças que ocorreu dentro da pasta do usuario
