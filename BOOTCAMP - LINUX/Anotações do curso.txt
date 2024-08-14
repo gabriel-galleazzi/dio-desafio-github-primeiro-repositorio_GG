@@ -1,0 +1,2 @@
+Comando para desligar o Linux:
+shutdown 0    --> shutdown é o comando para desligar e o "0" é o tempo que a maquina virtual vai ser desligada.
